@@ -1,1 +1,19 @@
 # My-PowerBI-Project2
+
+
+![Screenshot1](https://user-images.githubusercontent.com/129103686/231909911-cc7620bb-ad11-473c-a638-1596f5c4343e.png)
+
+
+![Screenshot 2](https://user-images.githubusercontent.com/129103686/231909920-8d6d6c9f-b115-467f-8d44-8b313df2a4e7.png)
+
+
+
+![Screenshot3](https://user-images.githubusercontent.com/129103686/231909928-b24641f3-fa4b-40dd-87c1-95e93e141c8d.png)
+
+
+
+![Screenshot 4](https://user-images.githubusercontent.com/129103686/231909941-93e5aea9-7c40-4d20-891d-2a9b58ff8ecf.png)
+
+
+
+![Screenshot5](https://user-images.githubusercontent.com/129103686/231909946-2ddb3c70-cced-4143-b8a1-6d9a686a9833.png)
