@@ -1,4 +1,5 @@
-#Analysis(Performance of Hollywood movie)-using-Power-BI.
+# Analysis(Performance of Hollywood movie)-using-Power-BI.
+
 Aim: To analyze the performance of Hollywood movies.
 Data:Title,genre,studio,profitability,ans ratings for movies released 2007-2012.
 Specifications:For the dashboard,the company would like use thier brand colors which are blue,green and brown, can use light or dark shades of each color.light blue and darkblue are acceptable.
