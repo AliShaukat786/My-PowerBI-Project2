@@ -1,4 +1,15 @@
-# My-PowerBI-Project2
+#Analysis(Performance of Hollywood movie)-using-Power-BI.
+Aim: To analyze the performance of Hollywood movies.
+Data:Title,genre,studio,profitability,ans ratings for movies released 2007-2012.
+Specifications:For the dashboard,the company would like use thier brand colors which are blue,green and brown, can use light or dark shades of each color.light blue and darkblue are acceptable.
+The Dashboard the client would like to see:
+The average Rotten Tomatoes ranting of each genre.
+The number of movies produced per year.
+The audience score for each film.
+The profitably per studio.
+The Worldwide gross per genre.
+
+ 
 
 
 ![Screenshot1](https://user-images.githubusercontent.com/129103686/231909911-cc7620bb-ad11-473c-a638-1596f5c4343e.png)
